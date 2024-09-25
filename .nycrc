@@ -1,0 +1,4 @@
+{
+ "reporter": ["text", "json"],
+ "report-dir": "coverage"
+}
